@@ -1,0 +1,2 @@
+D:\ESAPI\Projects\PlanComplexity\PlanComplexity.Script\obj\Debug\PlanComplexity.Script.csprojAssemblyReference.cache
+D:\ESAPI\Projects\PlanComplexity\PlanComplexity.Script\obj\Debug\PlanComplexity.Script.csproj.CoreCompileInputs.cache
